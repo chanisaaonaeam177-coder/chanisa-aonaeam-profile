@@ -15,3 +15,4 @@ Welcome to the UX/UI Student-Designer Portfolio repository. This project showcas
 - [Licensel (#license)
 
 ## Demo
+You can view the live demo of the portfolio [herel https://github.com/chanisaaonaeam177-coder/chanisa-aonaeam-profile.git)
