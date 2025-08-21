@@ -9,3 +9,9 @@ Welcome to the UX/UI Student-Designer Portfolio repository. This project showcas
 - [Demo] (#demo)
 - [Features] #features)
 - [Technologies Used] (#technologies-used)
+- [Installation] (#installation)
+- [Usage] (#usage)
+- [Contributingl (#contributing)
+- [Licensel (#license)
+
+## Demo
